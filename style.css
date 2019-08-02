@@ -1,0 +1,24 @@
+body {
+    background-color:darkblue
+}
+h1 {
+    color:rgb(209, 29, 29);
+    text-align: center ;
+}
+p{
+    font-family:verdana;
+    font-size: 20px;
+}    
+a{
+    color: green;
+    padding:10px;
+} 
+h1{color:blue}
+h2{color:red}
+h3{color:green}
+h4{color:gold}
+h5{color:pink}
+h6{color:darkblue}
+input{
+    margin: 1em;
+}
